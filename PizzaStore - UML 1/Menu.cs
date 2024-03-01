@@ -18,5 +18,7 @@ namespace PizzaStore___UML_1
         {
             return magarita.ToString() + vesuvio.ToString() + vegetarian.ToString() + contadina.ToString();
         }
+
+
     }
 }

@@ -23,6 +23,8 @@ namespace PizzaStore___UML_1
 
         public int Id { get => _id; private set => _id = value;  }
         public DateTime Date { get => _date; private set => _date = value; }
+
+
         public Pizza PizzaOne { get => _pizzaOne; set => _pizzaOne = value; }
         public Pizza PizzaTwo { get => _pizzaTwo; set => _pizzaTwo = value; }
         public Pizza PizzaThree { get => _pizzaThree; set => _pizzaThree = value; }
